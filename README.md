@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%" height="50%" alt="animated banner" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%"  alt="animated banner" />
 </p>
 
 <h2 align="left">Hi 👋! My name is Yousuf Hossain Siam and I'm a Flutter Developer from Dhaka, Bangladesh 🇧🇩</h2>
