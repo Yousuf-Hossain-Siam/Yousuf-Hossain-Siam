@@ -18,7 +18,6 @@
 - 🌱 Passionate about **building cross-platform apps** with **Flutter & Firebase**  
 - ⚙️ Skilled in **GetX architecture**, **REST API integration**, and **Clean Code**  
 - 💡 I enjoy turning ideas into scalable mobile applications  
-- 🌍 Founder Partner at **Syzno**, delivering professional custom apps globally  
 - ⚡ Fun fact: I love designing clean, responsive UIs and exploring AI integration in apps  
 
 ###
