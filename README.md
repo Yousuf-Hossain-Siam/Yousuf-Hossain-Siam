@@ -103,7 +103,7 @@
 
 
  <p align="center">
-  <img src="https://tinyurl.com/yn573sx5" width="30%"  alt="animated banner" />
+ ![animated banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZ4eXRoczliYnp2aTBrOTJqanY1YnBqZ2gxOHF1b2owa2kycWQxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpzQYP28HfdixsHFdg/giphy.gif)
 </p>
 
 <h2 align="left">Hi 👋! My name is Yousuf Hossain Siam and I'm a Flutter Developer from Dhaka, Bangladesh 🇧🇩</h2>
