@@ -102,7 +102,6 @@
 
 
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30%"  alt="animated banner" />
 </p>
@@ -112,15 +111,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hossain-Siam&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yousuf-Hossain-Siam&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_rank=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf-Hossain-Siam&layout=compact&theme=tokyonight&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
 
 ###
 
-<!-- 🥧 Custom Pie Chart replacing "C grade" badge -->
+<!-- 🥧 Custom Pie Chart replacing C-grade -->
 <div align="center">
-  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Commits','Pull Requests','Issues','Stars'],datasets:[{data:[85,2,1,2]}]},options:{plugins:{legend:{labels:{color:'white',font:{size:14}}}}}}" height="160" alt="GitHub Activity Pie Chart" />
+  <img src="https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Commits%27%2C%27Pull%20Requests%27%2C%27Issues%27%2C%27Stars%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B85%2C2%2C1%2C2%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bcolor%3A%27white%27%2Cfont%3A%7Bsize%3A14%7D%7D%7D%7D%7D%7D" height="180" alt="GitHub Activity Pie Chart" />
 </div>
 
 ###
@@ -198,5 +197,3 @@
 
 <img src="https://raw.githubusercontent.com/Yousuf-Hossain-Siam/Yousuf-Hossain-Siam/output/snake.svg" alt="Snake animation" />
 
-
- 
